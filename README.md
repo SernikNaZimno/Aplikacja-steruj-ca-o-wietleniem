@@ -1,3 +1,5 @@
+<!-- dokumentacja projektu została napisana przez narzędzia do generowania kodu. -->
+
 # Aplikacja do Sterowania Oświetleniem
 
 Aplikacja do symulowania komunikacji systemu zarządzania oświetleniem za pośrednictwem MQTT. Projekt składa się z dwóch głównych komponów:
